@@ -10,3 +10,4 @@
 | 6 | Conduct user tests, Collect feedback |
 | 7 | Revise prototype and software, Energy optimizations |
 | 8 | Final report writing, Presentation preparation, GitHub documentation |
+
